@@ -2,7 +2,7 @@
   "name": "tagalys/tagalys-search-magento2",
   "description": "Integrates Tagalys Search",
   "type": "metapackage",
-  "version": "1.6.2",
+  "version": "1.6.3",
   "license": [
     "OSL-3.0",
     "AFL-3.0"
@@ -14,10 +14,10 @@
       }
   ],
   "require": {
-    "tagalys/tagalys-magento2-component-search": "1.6.2",
-    "tagalys/tagalys-magento2-component-mpages": "1.6.2",
-    "tagalys/tagalys-magento2-component-categories": "1.6.2",
-    "tagalys/tagalys-magento2-component-mystore": "1.6.2"
+    "tagalys/tagalys-magento2-component-search": "1.6.3",
+    "tagalys/tagalys-magento2-component-mpages": "1.6.3",
+    "tagalys/tagalys-magento2-component-categories": "1.6.3",
+    "tagalys/tagalys-magento2-component-mystore": "1.6.3"
   },
   "authors": [
     {
